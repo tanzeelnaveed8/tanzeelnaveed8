@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/172998726?v=4" width="120" style="border-radius:50%"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 </p>
 
 <h1 align="center">Tanzeel Naveed Khan</h1>
