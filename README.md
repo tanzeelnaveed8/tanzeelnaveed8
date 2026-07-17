@@ -1,42 +1,40 @@
 <!-- animated wave header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tanzeel%20Naveed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Tanzeel%20Naveed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=20"/>
 </div>
 
-<!-- typing animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;Next.js+%2B+FastAPI+Wizard+%E2%9A%A1;Building+AI-Powered+SaaS+Products;Always+Shipping%2C+Always+Learning+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=FF3131&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;Next.js+%2B+FastAPI+Wizard+%E2%9A%A1;Building+AI-Powered+SaaS+Products;Always+Shipping%2C+Always+Learning+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-</div>
+<br>
 
-<!-- animated line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://github.com/tanzeelnaveed8">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF3131?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<!-- socials -->
-<div align="center">
-  <a href="https://github.com/tanzeelnaveed8">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=tanzeelnaveed8&label=Profile+Views&color=00d9ff&style=for-the-badge"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=tanzeelnaveed8&label=Profile+Views&color=ff3131&style=for-the-badge"/>
+
 </div>
 
 <br>
 
-<!-- about me with coding gif -->
-<img align="right" alt="coding gif" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 💫 about me
 
-## 💫 About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```typescript
 const tanzeel = {
@@ -55,90 +53,104 @@ const tanzeel = {
 
 - 🔭 building **ai-powered saas products**
 - 🤖 exploring **agentic ai & llm integrations**
-- ⚡ automating workflows so I can sleep more
+- ⚡ automating workflows so i can sleep more
 - 🌱 currently learning **docker & openai agents sdk**
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
-## 🛠️ Tech Arsenal
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ tech arsenal
 
 <div align="center">
 
-### 💻 Languages & Frontend
+**languages & frontend**
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
 
-### ⚙️ Backend & Database
+<br><br>
+
+**backend & database**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres&perline=6" />
 
-### 🧰 Tools & Platforms
+<br><br>
+
+**tools & platforms**
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman,figma&perline=7" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🎯 Project | 🛠️ Tech Stack | ✨ Highlight |
-|:----------|:-------------|:------------|
-| 🪄 **AI Virtual Try-On SaaS** | `Next.js` `Gemini AI` `Node.js` | ai-powered fashion experience |
-| 🦷 **Dental Booking System** | `Next.js` `MongoDB` | full appointment automation |
-| 📄 **AI Resume Builder** | `Next.js` `LLMs` | smart resume generation |
-| 🛒 **Ecommerce Platform** | `Next.js` `Stripe` | complete payment flow |
-| 🌐 **Portfolio Website** | `Next.js` `Tailwind` | modern & blazing fast |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Analytics
+## 🚀 featured projects
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanzeelnaveed8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeelnaveed8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanzeelnaveed8&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+| 🎯 project | 🛠️ tech stack | ✨ highlight |
+|:---|:---|:---|
+| 🪄 **ai virtual try-on saas** | `Next.js` `Gemini AI` `Node.js` | ai-powered fashion experience |
+| 🦷 **dental booking system** | `Next.js` `MongoDB` | full appointment automation |
+| 📄 **ai resume builder** | `Next.js` `LLMs` | smart resume generation |
+| 🛒 **ecommerce platform** | `Next.js` `Stripe` | complete payment flow |
+| 🌐 **portfolio website** | `Next.js` `Tailwind` | modern & blazing fast |
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzeelnaveed8&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎮 3D Contribution Graph
+## 📊 github analytics
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" width="100%"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanzeelnaveed8&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3131&icon_color=ff3131&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeelnaveed8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3131&text_color=c9d1d9"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=tanzeelnaveed8&theme=radical&hide_border=true&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131"/>
+
+<br>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanzeelnaveed8&theme=redical&hide_border=true&bg_color=0d1117&color=ff3131&line=ff3131&point=ffffff&area=true"/>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## 🐍 Contribution Snake
+## 🎮 3d contribution graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tanzeelnaveed8/tanzeelnaveed8/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/tanzeelnaveed8/tanzeelnaveed8/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" width="95%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## 🏆 GitHub Trophies
+## 🐍 contribution snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanzeelnaveed8&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://raw.githubusercontent.com/tanzeelnaveed8/tanzeelnaveed8/output/github-snake-dark.svg" alt="snake animation" width="95%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## 📚 Currently Learning
+## 🏆 github trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tanzeelnaveed8&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
+</div>
+
+<br>
+
+## 📚 currently learning
 
 <div align="center">
 
@@ -149,10 +161,11 @@ const tanzeel = {
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
-<!-- animated footer wave -->
+<br>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 </div>
