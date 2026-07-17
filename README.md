@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/172998726?v=4" width="120" style="border-radius:50%"/>
+</p>
+
 <h1 align="center">Tanzeel Naveed Khan</h1>
 
 <p align="center">Full Stack Developer &nbsp;•&nbsp; AI Engineer &nbsp;•&nbsp; Karachi, Pakistan</p>
@@ -65,9 +69,12 @@ I build modern web applications and AI-powered products. Currently focused on Ne
 
 <br>
 
-### GitHub Stats
+### Contribution Graph
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tanzeelnaveed8&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeelnaveed8&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+  <img src="https://raw.githubusercontent.com/tanzeelnaveed8/tanzeelnaveed8/main/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanzeelnaveed8/tanzeelnaveed8/output/github-snake-dark.svg" width="100%"/>
 </p>
