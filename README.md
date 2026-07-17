@@ -66,15 +66,3 @@ I build modern web applications and AI-powered products. Currently focused on Ne
 | **Dental Booking System** | Next.js, MongoDB |
 | **Ecommerce Platform** | Next.js, Stripe |
 | **Portfolio Website** | Next.js, Tailwind |
-
-<br>
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanzeelnaveed8/tanzeelnaveed8/main/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanzeelnaveed8/tanzeelnaveed8/output/github-snake-dark.svg" width="100%"/>
-</p>
